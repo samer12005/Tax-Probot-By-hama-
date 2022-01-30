@@ -33,4 +33,4 @@ const Discord = require('discord.js');
      message.channel.send(taxembed);
    }});
 
- client.login("Token")
+ client.login("OTM3MjY4OTA1OTA1MzgxNDA2.YfZRsA.uENZOlCuOpv7Px576piWGB_zZ-Q")
